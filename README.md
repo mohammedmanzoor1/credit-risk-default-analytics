@@ -41,7 +41,7 @@ A single-page interactive Tableau dashboard including:
 KPIs: Total Loans, Default Loans, Default Rate (%), Average Loan Amount
 Visuals: Default Rate by Loan Purpose, Credit Score Risk Analysis, DTI Risk Analysis, Employment Stability Analysis, and interactive segmentation filters
 
-![Loan Default Analytics Dashboard — Total Loans, Default Rate, and Risk Segmentation](dashboard_screenshot.png)
+![Loan Default Analytics Dashboard — Total Loans, Default Rate, and Risk Segmentation](./dashboard_preview.png)
 *Figure 1: Loan Default Analytics Dashboard — KPI cards, loan purpose, credit score, and DTI risk analysis*
 
 
